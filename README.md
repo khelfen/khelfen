@@ -2,7 +2,7 @@
 
 I am an engineer in the field of renewable energies working at the [RLI]() who has found a passion in programming. I look forward to learning new programming skills and meeting interesting people!
 
-- 🔭 I’m an active [eDisGo](https://github.com/openego/eDisGo) developer
+- 🔭 I’m an active [eDisGo](https://github.com/openego/eDisGo) developer!
 - 🌱 I’m currently learning a lot of things and always something new!
 - 💬 Ask me about distribution grids and flexibility in the energy system!
 - 📫 How to reach me: [You can fin my contact information here!](https://reiner-lemoine-institut.de/en/kilian-helfenbein/)
