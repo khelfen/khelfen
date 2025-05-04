@@ -25,7 +25,7 @@ I'm Kilian – an energy systems engineer with a passion for open-source softwar
 
 ## 🔗 Let's connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/kilian-helfenbein-a97326187)
+- 💼 [LinkedIn](https://www.linkedin.com/in/kilian-helfenbein/)
 - 🧪 [RLI Profile](https://reiner-lemoine-institut.de/person/kilian-helfenbein/)
 
 ---
